@@ -4,6 +4,7 @@
 #include <sys/stat.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
+#include <netinet/in.h>
 #include <fcntl.h>
 #include <stdlib.h>
 #include <time.h>
